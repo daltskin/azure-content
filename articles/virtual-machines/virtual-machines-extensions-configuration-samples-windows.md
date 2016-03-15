@@ -74,7 +74,7 @@ Before deploying the extension please check the latest extension version and rep
             "fileUris": [
                 "http: //Yourstorageaccount.blob.core.windows.net/customscriptfiles/start.ps1"
             ],
-            "commandToExecute": "powershell.exe-ExecutionPolicyUnrestricted-Filestart.ps1"
+            "commandToExecute": "powershell.exe-ExecutionPolicyUnrestricted-File start.ps1"
         }
     }
 
